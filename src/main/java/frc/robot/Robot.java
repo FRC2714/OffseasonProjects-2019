@@ -1,10 +1,11 @@
 package frc.robot;
 
 import edu.wpi.first.wpilibj.TimedRobot;
-import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
-import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
+import frc.robot.bbqlibs.SwerveBase;
 
 public class Robot extends TimedRobot {
+
+  SwerveBase swerve = SwerveBase.getInstance();
 
   @Override
   public void robotInit() {

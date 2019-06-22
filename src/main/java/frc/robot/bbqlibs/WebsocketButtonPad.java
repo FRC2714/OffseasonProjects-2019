@@ -1,4 +1,4 @@
-package frc.robot.BBQLibs;
+package frc.robot.bbqlibs;
 
 import org.java_websocket.client.WebSocketClient;
 import org.java_websocket.handshake.ServerHandshake;

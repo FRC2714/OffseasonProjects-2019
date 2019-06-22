@@ -1,4 +1,4 @@
-package frc.robot.BBQLibs;
+package frc.robot.bbqlibs;
 
 public abstract class Odometer {
 

@@ -1,4 +1,4 @@
-package frc.robot.BBQLibs;
+package frc.robot.bbqlibs;
 
 import edu.wpi.first.wpilibj.GenericHID;
 import edu.wpi.first.wpilibj.buttons.JoystickButton;
